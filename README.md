@@ -6,3 +6,5 @@ City2とそれ以外のCityで分けたモデル、０時時点の自転車数�
 
 LB：3.7113888
 
+参考文献
+[【Python覚書】LightGBMで交差検証を実装してみる](https://potesara-tips.com/lightgbm-k-fold-cross-validation/)
