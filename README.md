@@ -6,5 +6,7 @@ City2とそれ以外のCityで分けたモデル、０時時点の自転車数�
 
 LB：3.7113888
 
+City2とそれ以外では自転車数の変動が大きく異なっていたのとCity2が観光都市にあたるため分けて学習してみた。
+
 参考文献
 [【Python覚書】LightGBMで交差検証を実装してみる](https://potesara-tips.com/lightgbm-k-fold-cross-validation/)
